@@ -1,1 +1,1 @@
-# Stock-Sentimental-Analysis-using-News-Headlines
+# StockPrediction-Sentimental-Analysis
